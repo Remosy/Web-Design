@@ -1,0 +1,14 @@
+diff a/css/index.css b/css/index.css	(rejected hunks)
+@@ -117,6 +117,12 @@
+ .heading{
+ 	color: #0B0B61;
+ }	
++=======
++/*  Boosytat*/
++#myCarousel{
++
++}
++>>>>>>> a61afd58ecdc3f7e5c4a05f87b2d118bd78e54d2
+ 
+ /*
+ 	Result.php

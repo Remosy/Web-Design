@@ -1,0 +1,62 @@
+.chartdiv {
+	width: 90%; 
+	min-height: 350px;
+	margin: 0 auto;
+	margin-top: 50px;
+	background-color: #FFFFFF;
+}
+
+.chart {
+	width: 100%; 
+	min-height: 450px;
+	margin: 0 auto;
+	margin-top: 50px;
+	
+}
+.chart div div a {
+	display: none !important;
+}
+
+#modifyGraph {
+	display: table;
+	width: auto;
+	height: auto;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+
+.mod {
+	height: 22px;
+	display: inline-block;
+	margin-right: 2em;
+}
+
+#generateChart {
+	height: 22px;
+	width: 75px;
+	border: solid 1px #aaa;
+	background: #f1f1f1;
+	text-align: center;
+	cursor: pointer;
+}
+
+#generateChart:hover {
+	text-decoration: underline;
+}
+
+.amcharts-legend-div {
+	display: none;
+}
+
+#hide {
+	display: none;
+}
+
+.chartNote {
+	font-size: 12px;
+	float: right;
+	overflow: hidden;
+	color: #888;
+	margin-right: 5%;
+}
+			

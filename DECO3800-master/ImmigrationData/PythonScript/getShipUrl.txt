@@ -1,0 +1,11 @@
+Sub getShip()
+'Go through all rows per files to get ships' links range("start column No. : end column No.")
+For Each ship In Range("C2:C13466")
+If ship.Hyperlinks.Count > 0 Then
+    ship.Offset(0, 6) = ship.Hyperlinks(1).Address
+Else
+    ship.Offset(0, 6) = "n/a"
+End If
+Next
+End Sub
+

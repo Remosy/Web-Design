@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="deco3800 immi">
+    <serverData>
+      <paths name="deco3800 immi">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="deco3800immi" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

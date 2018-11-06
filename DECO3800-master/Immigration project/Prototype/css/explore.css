@@ -1,0 +1,23 @@
+#chartdiv {
+width: 90%; 
+height: 400px;
+margin: 0 auto;
+border:2px solid rgba(0, 0, 0, 0.5);
+
+}
+
+#modifyGraph {
+display: table;
+width: auto;
+height: auto;
+margin: 0 auto;
+}
+
+.mod {
+display: inline-block;
+margin-right: 2em;
+}
+
+.row {
+	
+}

@@ -1,0 +1,85 @@
+@media only screen and (min-width : 100px) and (max-width : 800px)
+{
+	/******************* Search Box Style ***********************/
+	#searchBox{
+		margin-top: 1%;
+	}
+	
+	/******************* Login Box Style ***********************/
+	#loginBox{
+		display: none;
+		margin-top: 15%;
+	}
+	
+	
+	
+}
+@media only screen and (min-width : 300px)and (max-width : 450px){
+	/******************* Search Result Panel Style ***********************/
+	#searchResultPanel{
+		padding-top: 23%;
+		width: 100%;
+		height:500px;
+	}
+}
+
+@media only screen and (min-width : 450px)and (max-width : 750px){
+	/******************* Search Result Panel Style ***********************/
+	#searchResultPanel{
+		margin-top: 8%;
+		width: 100%;
+		height:500px;
+	}
+}
+
+@media only screen and (min-width : 750px)and (max-width : 1024px){
+	/******************* Search Result Panel Style ***********************/
+	#searchResultPanel{
+		margin-top: 13%;
+		width: 100%;
+		height:500px;
+	}
+}
+
+
+@media only screen and (min-width : 1024px)and (max-width : 2024px){
+	/******************* Search Result Panel Style ***********************/
+	#searchResultPanel{
+		width: 100%;
+		margin-top: 20%;
+		height:500px;
+	}
+}
+
+
+a{
+	cursor: pointer;
+}
+
+body{
+	background-color: #e7ee9a;
+}
+
+
+/******************* Login Box Style ***********************/
+#loginBox{
+	display: none;
+}
+
+/**Login Box: Title**/
+#loginBox .modal-content{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/**Login Box: Form**/
+#loginBox #loginForm div{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/**Login Box: Button**/
+#loginBox .modal-footer{
+	text-align: center;
+}
+

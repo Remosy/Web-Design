@@ -1,0 +1,64 @@
+
+.shipContent {
+	min-height: 300px; 
+	margin-top: 50px;
+}
+
+.shipContent tr td{
+	width: 50px;
+	text-align: center;
+}
+
+.yearRange {
+	padding: 0em 1em 0em 1em;
+	text-align: center;
+	vertical-align: middle;
+}
+
+#currentYear {
+	text-align: center;
+	vertical-align: middle;
+}
+
+.emptyRow {
+	height: 40px;
+}
+
+.inputRow {
+	padding-top: 20px;
+}
+
+#sliderBar {
+	width: 50em;
+	line-height: initial;
+}
+
+.shipCell {
+	background-color: #99ccff;
+	border: solid 1px blue;
+	height: 25px;
+	cursor: pointer;
+}
+
+.shipCell div{
+	width: 100%;
+	height: 100%;
+}
+
+#year {
+	margin-left: 5px; 
+	width: 50px;
+	text-align: center;
+}
+
+.ui-tooltip-content {
+	font-size:12px;
+}
+
+.ui-slider-horizontal .ui-slider-handle {
+	top: -.15em !important;
+}
+
+.ui-slider .ui-slider-handle {
+	height: 1.42857143em !important;
+}

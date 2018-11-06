@@ -1,0 +1,213 @@
+#searchTitle{
+	text-align: center;
+}
+
+#searchForm{
+	width: 100%;
+	height: 90%;
+}
+
+.form-horizontal{
+	margin-top: 3%;
+    padding-left:25%;
+}
+
+#searchForm label{
+	width: 20%;
+	font-family: sans-serif;
+	display:inline-block;
+    vertical-align:baseline;
+    text-align: center;
+}
+
+#searchForm button{
+	height: 5em;
+}
+
+.load_image{
+   margin-left: 40%;
+}
+
+#otherName, #lastName, #shipName, #age, #applicant, #qsa_Item_ID, #submit{
+	width: 50%;
+	height:6%;
+}
+
+/* Year & Age */
+
+#year, #yearRange{
+	width: 50%;
+	height:6%;
+	padding:0.25em;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	margin-top:1em;
+	background-color:white;
+	border: 1px solid transparent;
+	border-color:#C1BDBD;
+	
+}
+#yearRange .bar{
+	background-color:grey;
+	margin-top:-0.5em;
+}
+
+#yearRange .rightGrip, #yearRange .leftGrip{
+	top:-0.5em;
+	background:grey
+}
+
+.year .leftLabel, .year .rightLabel{
+	margin-top:8px;
+	width:100px;
+	position:absolute;
+	font-size:16px;
+	font-weight: bold;
+}
+
+
+.year .rightLabel{
+	margin-left: 35%;
+}
+
+ #yearRange, #ageRange{
+	margin-top: -0.3em;
+	/*width: 40%;*/
+	margin-left:21%;
+}
+
+/*Month, Day*/
+#month, #day{
+   width:50%;
+   height:5%;
+}
+
+#day{
+}
+
+#month{
+	-webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    font-style: normal;
+	font-size: medium;
+	font-family: sans-serif; 
+	vertical-align: baseline;
+	text-align: center;
+}
+
+#month .selectpicker dropdown{
+	background-color: rgba(250,250,250,1);	
+}
+
+
+
+/*Search Result*/
+#searchResult{
+	overflow: auto;/*important!!*/
+	width: 85%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	display: none;
+}
+
+#searchResult section{
+	text-align: center;
+	margin-bottom: 1%;
+}
+
+#resultTable{
+	margin-left: auto;
+	margin-right: auto;
+	height: 20em;
+}
+
+#searchResult form{
+	text-align: center;
+	width: 100%;
+}
+
+.searchAgain, .requestRecords{
+	width: 45%;
+	height:5%;
+	margin-top: 1.5em;
+	border-radius: 5px;
+	border: 2px solid #D6D6D6;
+	font-style: normal;
+	font-size: medium;
+	font-family: sans-serif;
+}
+
+#searchResult input[type=button]{
+	border: 2px solid #D6D6D6;
+	color: #ffffff;
+}
+
+#searchResult input[type=button]:hover{
+	border: 2px solid #D6D6D6;
+	background: rgba(0, 0, 0, 0.5);
+	cursor: pointer;
+}
+
+/*Search Service*/
+#searchService{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#searchService button{
+	text-align: center;
+	margin-top: 5%;
+	margin-left: 10%;
+	width: 20%;
+	height: 5%;
+	border: 2px solid #D6D6D6;
+	background: rgba(0, 0, 0, 0.5);
+	color:black;
+}
+
+#save_cvs:hover, #save_json:hover, #save_pdf:hover{
+	border: 2px solid #629C44;
+	background: #92D36E;
+	cursor: pointer;
+}
+
+ @media only screen and (min-width : 100px) and (max-width : 850px)
+{
+	 #searchResult{
+		padding-top: 5%;	
+	}
+	
+	.form-horizontal{
+	    padding-left:35%;
+    }
+	
+	
+	#otherName, #lastName, #year, #shipName, #age, #applicant, #qsa_Item_ID, #submit, .searchAgain,.requestRecords{
+		width: 60%;
+		height:6%;
+	}
+	
+	#yearRange, #ageRange{
+		margin-top: -0.3em;
+		width: 60%;
+		margin-left:35.5%;
+	}
+	
+	#year, #yearRange{
+		margin-top:-0.5%;
+		margin-left: 0;
+	}
+	
+	.year .rightLabel{
+	margin-left: 50%;
+	}
+
+	
+	#month, #day{
+		width:60%;
+		height:5%;
+	}
+}

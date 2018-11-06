@@ -1,0 +1,320 @@
+.container{
+	background: #005A84;
+	height: 95px;
+	width:100%;
+	margin:0;
+	z-index:999;
+}
+.page-header{
+	border-bottom: none;
+	margin:10px;
+	margin-bottom:0;
+	padding-bottom: 0;
+	
+	
+}
+.agency{
+	padding-bottom: 10px;
+	padding-left:10px;
+}
+
+.fixed-menu {
+	position: fixed;
+	top: 0px;
+	z-index: 99;
+}
+
+/* Remove the navbar's default margin-bottom and rounded borders */ 
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.navbar-inverse{
+	border:none;
+}
+
+
+.navbar-default .navbar-nav>li>a{
+	color:rgba(0,90,132,1);
+}
+	
+}
+.navbar-nav{
+	margin-left:0px;
+	min-width: 500px;
+	z-index:999;
+}
+.navbar-nav li{
+	min-width:150px;
+	text-align:center;
+}
+
+.navbar-nav .search{
+	position:absolute;
+	right:0;
+	
+}
+
+.navbar-nav .search img{
+	height:20px;
+	width:20px;
+	margin-left: 10px;
+}
+.dropdown-menu{
+	background-color: rgba(250,250,250,1);
+	padding:0;
+	
+}
+
+.dropdown-menu li{
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.dropdown-menu>li:hover{
+	background-color:rgba(231,231,231,1);
+	
+}
+
+.drodown:hover> .dropdown-menu{
+	
+}
+.container-fluid{
+	background-color:rgba(255,255,255,255);
+	padding-left:0px;
+	z-index:999;
+	
+}
+
+.container-fluid .navbar-collapse{
+	margin-left:-15px;
+}
+
+.main section.brisbane-section{
+
+	background-image:url("../img/infograph_img/brisbane-background.png");
+}
+.main section.immi-section{
+	background:rgba(167,115,84,1);
+
+}
+.main section.ship-section{
+	background-image:url("../img/infograph_img/waves.png");
+}
+
+.main section.age-section{
+	background:rgba(243,236,202,1);
+}
+
+.main section.year-section{
+	background:#B5CEF7;
+}
+.section-container{
+	padding:25px 0 50px 0;
+}
+
+.top-section-brisbane{
+	position:absolute;
+	left:32%;
+	top:25%;
+}
+.top-section{
+	text-align:center;
+}
+
+.top-section-immi{
+	height:200px;
+	text-align:center;
+}
+.top-section-immi img{
+	height:200px;
+}
+
+
+.brisbane-map{
+	position:absolute;
+	width:100%;
+}
+.brisbane-map td{
+	width:100%;
+	height:430px;
+}
+#brisbane{
+	height:350px;
+	
+}
+.move{
+	padding-top:50px;
+	padding-left:50px;
+}
+
+#immis{
+	height:150px;
+	
+}
+#immis:hover{
+	opacity:0.9;
+}
+
+#immi-row{
+	vertical-align:bottom;
+}
+
+#center {
+	width: 100%;
+}
+
+.ships,.age,.year{
+	margin:40px 30px 0 35px;
+}
+.immigrants{
+	margin:20px 30px 0 35px;
+}
+.immigrants td,.ships td{
+	text-align:center;
+}
+.immigrants td{
+	width:200px;
+	padding-left:30px;
+}
+.immigrants table{
+	margin-left:40px;
+}
+.immigrants img{
+	height:150px;
+	margin:0 10px 0 10px;
+}
+.immigrants img:hover{
+	opacity:0.6;
+}
+
+.immigrants span{
+	display:inline-block;
+	background-image:url("../img/infograph_img/immi-banner2.png");
+	color:black;
+	height:40px;
+	min-width:200px;
+	margin-left:0 auto;
+	margin-right: 0 auto;
+}
+
+.immigrants a{
+	padding: 2px 2px 15px 1px;
+	line-height:40px;
+}
+
+.ships img{
+	height:150px;
+	margin:0 10px 0 10px;
+}
+
+.ships img:hover{
+	opacity:0.9;
+}
+
+.ships td{
+	padding-left: 25px
+}
+.ships span{
+	display:inline-block;
+	background-image:url("../img/infograph_img/green-banner2.png");
+	height:40px;
+	min-width:200px;
+	margin-left:0 auto;
+	margin-right: 0 auto;
+	color:white;
+}
+.ships a{
+	padding: 2px 2px 15px 1px;
+	line-height:30px;
+}
+
+.ships table{
+	min-width:100px;
+	margin-left:40px;
+}
+
+.age table{
+	margin: 0 auto;
+	height:300px;
+	
+}
+.age .color{
+	padding-bottom:5px;
+	width:150px;
+	height:50;
+	text-align:center;
+	background-color:white;
+	border-radius:20px;
+}
+
+.age .color:hover{
+	background-color:lightblue;
+}
+
+.age span{
+	display:inline-block;
+	height:40x;
+	min-width:100px;
+	margin-left:0 auto;
+	margin-right: 0 auto;
+	color:black;
+	font-weight:bold;
+	font-size:large;
+}
+
+.age a{
+	padding: 2px 2px 15px 1px;
+	
+}
+
+.top-section img:hover{
+	opacity:0.9;
+}
+.year td{
+	text-align: right;
+}
+
+.year span{
+	font-size:x-large;
+	color:#353534;
+}
+.year a{
+	text-decoration:none;
+}
+.year td:hover{
+	font-weight:bold;
+}
+
+.color{
+	width:400px;
+}
+.year .color-equal{
+	border-top:solid;
+	border-bottom:solid;
+}
+
+#border{
+	border-bottom:solid;
+	border-top:solid;
+}
+
+
+.add{
+	width:200px;
+	height:100px;
+}
+
+/************
+ PopUp Data
+************/
+ .modal .modal-dialog { 
+	 width: 80%;
+	 height: 90%;
+	 overflow-y: auto;
+ }
+ 
+ #dataPanel{
+  overflow-y: scroll;
+}
+

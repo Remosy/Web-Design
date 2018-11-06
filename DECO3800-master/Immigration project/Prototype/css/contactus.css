@@ -1,0 +1,34 @@
+#image{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.heading{
+	color:  #3850B0;
+	text-align:center;
+}
+
+.about section{
+	font-size: 12px; 
+	font-family: Futura, "Trebuchet MS", Arial, sans-seri0;
+	font-style: italic;
+	text-align:center;
+}
+
+.row.content {
+	margin-bottom: -5%;
+	height: 750px;
+}
+
+.sidenav {
+      padding-top: 20px;
+      background-color: #f1f1f1;
+      height: 100%;
+    }
+ @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      .row.content {height:auto;} 
+    }
