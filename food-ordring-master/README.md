@@ -38,32 +38,32 @@ PHP mail()
 **************************************************************
 Ipad Version:
 
-<img src="https://github.com/Remosy/food-ordring/blob/master/wiki/ipadsearch.png?raw=true" width="300">
+<img src="https://github.com/Remosy/Web-Design/blob/master/food-ordring-master/wiki/ipadsearch.png">
 
 Iphone Version:
 
-<img src="https://github.com/Remosy/food-ordring/blob/master/wiki/iphone5search.png?raw=true" width="300">
+<img src="https://github.com/Remosy/Web-Design/blob/master/food-ordring-master/wiki/iphone5search.png">
 
-<img src="https://github.com/Remosy/food-ordring/blob/master/wiki/iphone6login.png?raw=true" width="300">
+<img src="https://github.com/Remosy/Web-Design/blob/master/food-ordring-master/wiki/iphone6login.png">
 
-<img src="https://github.com/Remosy/food-ordring/blob/master/wiki/iphone6login3.png?raw=true" width="300">
+<img src="https://https://github.com/Remosy/Web-Design/blob/master/food-ordring-master/wiki/iphone6login3.png">
 
-<img src="https://github.com/Remosy/food-ordring/blob/master/wiki/iphone6logined.png?raw=true" width="300">
+<img src="https://github.com/Remosy/Web-Design/blob/master/food-ordring-master/wiki/iphone6logined.png">
 
-<img src="https://github.com/Remosy/food-ordring/blob/master/wiki/iphone6menu.png?raw=true" width="300">
+<img src="https://github.com/Remosy/Web-Design/blob/master/food-ordring-master/wiki/iphone6menu.png">
 
-<img src="https://github.com/Remosy/food-ordring/blob/master/wiki/iphone6noLogin.png?raw=true" width="300">
+<img src="https://github.com/Remosy/Web-Design/blob/master/food-ordring-master/wiki/iphone6noLogin.png">
 
-<img src="https://github.com/Remosy/food-ordring/blob/master/wiki/iphone6search.png?raw=true" width="300">
+<img src="https://github.com/Remosy/Web-Design/blob/master/food-ordring-master/wiki/iphone6search.png">
 
-<img src="https://github.com/Remosy/food-ordring/blob/master/wiki/iphone6search2.png?raw=true" width="300">
+<img src="https://github.com/Remosy/Web-Design/blob/master/food-ordring-master/wiki/iphone6search2.png">
 
 Nexus Version:
 
-<img src="https://github.com/Remosy/food-ordring/blob/master/wiki/nexus7search.png?raw=true" width="300">
+<img src="https://github.com/Remosy/Web-Design/blob/master/food-ordring-master/wiki/nexus7search.png">
 
 Web Page version:
 
-<img src=https://github.com/Remosy/food-ordring/blob/master/wiki/login.png?raw=true" width="300">
+<img src="https://github.com/Remosy/Web-Design/blob/master/food-ordring-master/wiki/login.png">
 
-<img src="https://github.com/Remosy/food-ordring/blob/master/wiki/page.png?raw=true" width="300">
+<img src="https://github.com/Remosy/Web-Design/blob/master/food-ordring-master/wiki/page.png">
