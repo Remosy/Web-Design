@@ -1,4 +1,4 @@
-#Welcome to the food-ordring wiki!
+# Welcome to the food-ordring wiki!
 
 
 **Front end:**
@@ -45,8 +45,6 @@ Iphone Version:
 <img src="https://github.com/Remosy/Web-Design/blob/master/food-ordring-master/wiki/iphone5search.png">
 
 <img src="https://github.com/Remosy/Web-Design/blob/master/food-ordring-master/wiki/iphone6login.png">
-
-<img src="https://https://github.com/Remosy/Web-Design/blob/master/food-ordring-master/wiki/iphone6login3.png">
 
 <img src="https://github.com/Remosy/Web-Design/blob/master/food-ordring-master/wiki/iphone6logined.png">
 
